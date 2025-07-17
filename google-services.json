@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "451794109756",
+    "firebase_url": "https://smart-kitchen-8d7c8-default-rtdb.firebaseio.com",
+    "project_id": "smart-kitchen-8d7c8",
+    "storage_bucket": "smart-kitchen-8d7c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451794109756:android:43a6173240c3b24a5b0a39",
+        "android_client_info": {
+          "package_name": "com.example.meals_app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB996yi5rh9UolmGKXma_fROdKh1VGU0SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451794109756:android:5f4a51b12151bafd5b0a39",
+        "android_client_info": {
+          "package_name": "com.example.meals_config_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB996yi5rh9UolmGKXma_fROdKh1VGU0SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
